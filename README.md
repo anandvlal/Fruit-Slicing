@@ -58,6 +58,7 @@ Make sure the following assets are present in your project:
 - `images/` folder with:
   - All fruit images (`apple.png`, `banana.png`, etc.)
   - `heart.jpg`
+  -  `back.jpg`
 - `audio/` folder with:
   - `knife_mp3.mp3`
   - `knife_ogg.ogg`
